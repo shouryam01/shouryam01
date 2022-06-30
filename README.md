@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+![imageonline-co-textimage](https://user-images.githubusercontent.com/57291774/176610043-8e6f9481-47e5-488f-88b3-8650048aaf4c.png)
 ### About Me: :sparkles:
 #### :computer: I'm currently studying Computer Science and Engineering from IEC College of Engineering, Greater Noida.
 #### :four_leaf_clover: I'm on the track of learning Data Science.
