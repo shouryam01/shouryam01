@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-![jefferson-santos-9SoCnyQmkzI-unsplash](https://user-images.githubusercontent.com/57291774/176610711-52ab8a35-af37-4e1c-8941-7695da58d3ae.jpg)
 
 ### About Me: :sparkles:
 #### :computer: I'm currently studying Computer Science and Engineering from IEC College of Engineering, Greater Noida.
