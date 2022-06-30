@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-![imageonline-co-textimage](https://user-images.githubusercontent.com/57291774/176610043-8e6f9481-47e5-488f-88b3-8650048aaf4c.png)
+![jefferson-santos-9SoCnyQmkzI-unsplash](https://user-images.githubusercontent.com/57291774/176610711-52ab8a35-af37-4e1c-8941-7695da58d3ae.jpg)
+
 ### About Me: :sparkles:
 #### :computer: I'm currently studying Computer Science and Engineering from IEC College of Engineering, Greater Noida.
 #### :four_leaf_clover: I'm on the track of learning Data Science.
