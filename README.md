@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Shouryam :smile:👋
 
 <!--
 **shouryam01/shouryam01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About Me:
+#### I'm currently studying in IEC College of Engineering, Greater Noida.
+#### I'm on the track of learning Data Science.
+#### Usually code in C++ Got 5-star in C++ Hackerrank.
