@@ -1,5 +1,5 @@
-### Hi :👋, I'm Shouryam :smile
-
+### Hi👋, I'm Shouryam Sankritya :smile:
+### Welcome To My Profile :blush: 
 <!--
 **shouryam01/shouryam01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About Me:
-#### I'm currently studying in IEC College of Engineering, Greater Noida.
-#### I'm on the track of learning Data Science.
-#### Usually code in C++ Got 5-star in C++ Hackerrank.
+### About Me: :sparkles:
+#### :computer: I'm currently studying Computer Science and Engineering from IEC College of Engineering, Greater Noida.
+#### :four_leaf_clover: I'm on the track of learning Data Science.
+#### :bulb: Can code in multiple languages | Mostly C++ | Got 5-star in C++ Hackerrank.
+#### :fire: You can shoot me on shouryam16@gmail.com. I'll try to respond as soon as possible!
