@@ -1,4 +1,4 @@
-### Hi, I'm Shouryam :smile:👋
+### Hi :👋, I'm Shouryam :smile
 
 <!--
 **shouryam01/shouryam01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
