@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 ### About Me: :sparkles:
 #### :computer: Working as a Full Stack Developer.
 #### :four_leaf_clover: Building Projects Using Machine Learning.
-#### :bulb: Tech STack- Django, Python, ReactJs, AngularJs.
+#### :bulb: Tech Stack- Django, Python, ReactJs, AngularJs.
 #### :fire: You can shoot me on shouryam16@gmail.com. I'll try to respond as soon as possible!
