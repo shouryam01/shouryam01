@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### About Me: :sparkles:
-#### :computer: I'm currently studying Computer Science and Engineering from IEC College of Engineering, Greater Noida.
-#### :four_leaf_clover: I'm on the track of learning Data Science.
-#### :bulb: Can code in multiple languages | Mostly C++ | Got 5-star in C++ Hackerrank.
+#### :computer: Working as a Full Stack Developer.
+#### :four_leaf_clover: Building Projects Using Machine Learning.
+#### :bulb: Tech STack- Django, Python, ReactJs, AngularJs.
 #### :fire: You can shoot me on shouryam16@gmail.com. I'll try to respond as soon as possible!
